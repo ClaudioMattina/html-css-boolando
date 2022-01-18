@@ -12,15 +12,15 @@
 }
 
 .box-img{
-    width: 300px;
-    height: 500px;
+    width: 200px;
+    height: 300px;
     position: relative;
     margin: 10px;
 }
 
 img{
-    width: 300px;
-    height: 500px;
+    width: 200px;
+    height: 300px;
 }
 
 .prima:hover{
@@ -32,7 +32,7 @@ img{
 }
 
 .bg-uno{
-    background-image: url("img/1.webp");
+    background-image: url("img/1b.webp");
 }
 
 .bg-due{
@@ -93,18 +93,20 @@ img{
 
 .descrizione{
     font-family: 'Lucida Sans', 'Lucida Sans Regular';
-    font-size: 15px;
+    font-size: 10px;
 }
 
 .new-price{
     color: red;
     font-weight: bold;
+    font-size: 10px;
 }
 
 .old-price{
     color: black;
     font-weight: bold;
     text-decoration: line-through;
+    font-size: 10px;
 }
 
 .caratteristiche{
