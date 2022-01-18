@@ -25,6 +25,14 @@ img{
     height: 500px;
 }
 
+.prima:hover{
+    display: none;
+}
+
+
+
+
+
 .cuore{
     width: 30px;
     height: 30px;
@@ -56,6 +64,11 @@ img{
     bottom: 20px;
     left: 35px;
 }
+
+
+
+
+
 
 .marca{
     font-size: 10px;
