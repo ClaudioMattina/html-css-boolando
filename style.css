@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box-img{
+    width: 300px;
+    height: 500px;
+    background-color: red;
+    position: relative;
+}
+
+img{
+    width: 300px;
+    height: 500px;
+}
+
+.cuore{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    text-align: center;
+}
+
+#heart{
+    font-size: 25px;
+}
+
+.discount{
+    background-color: red;
+    width: 30px;
+    color: white;
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+}
+
+.sostenibile{
+    background-color: green;
+    width: 80px;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    left: 35px;
+}
