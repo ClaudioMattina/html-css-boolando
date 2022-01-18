@@ -9,6 +9,7 @@
     height: 500px;
     background-color: red;
     position: relative;
+    margin-bottom: 10px;
 }
 
 img{
@@ -46,4 +47,23 @@ img{
     position: absolute;
     bottom: 20px;
     left: 35px;
+}
+
+.marca{
+    font-size: 15px;
+}
+
+.descrizione{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+.new-price{
+    color: red;
+    font-weight: bold;
+}
+
+.old-price{
+    color: black;
+    font-weight: bold;
+    text-decoration: line-through;
 }
