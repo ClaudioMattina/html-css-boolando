@@ -14,7 +14,6 @@
 .box-img{
     width: 300px;
     height: 500px;
-    background-color: red;
     position: relative;
     margin: 10px;
 
@@ -29,6 +28,10 @@ img{
     display: none;
 }
 
+.box-img:hover{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/1.webp");
+    background-size: cover;
+}
 
 
 
