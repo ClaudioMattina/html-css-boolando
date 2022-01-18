@@ -4,9 +4,11 @@
     padding: 0px;
 }
 
+.row{
+    text-align: center;
+}
 .container{
     display: inline-block;
-    margin: auto;
 }
 
 .box-img{
@@ -56,11 +58,12 @@ img{
 }
 
 .marca{
-    font-size: 15px;
+    font-size: 10px;
 }
 
 .descrizione{
     font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 15px;
 }
 
 .new-price{
@@ -76,4 +79,6 @@ img{
 
 .caratteristiche{
     margin-left: 10px;
+    text-align: left;
+    margin-bottom: 20px;
 }
