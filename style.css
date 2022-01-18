@@ -16,7 +16,6 @@
     height: 500px;
     position: relative;
     margin: 10px;
-
 }
 
 img{
@@ -29,9 +28,33 @@ img{
 }
 
 .box-img:hover{
-    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/1.webp");
     background-size: cover;
 }
+
+.bg-uno{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/1.webp");
+}
+
+.bg-due{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/2b.webp");
+}
+
+.bg-tre{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/3b.webp");
+}
+
+.bg-quattro{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/4b.webp");
+}
+
+.bg-cinque{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/5b.webp");
+}
+
+.bg-sei{
+    background-image: url("file:///C:/classe%2055%20boolean/5%20esercizio..(zalando)/html-css-boolando/img/6b.webp");
+}
+
 
 
 
